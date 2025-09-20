@@ -1,0 +1,15 @@
+name: conda-torch
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch-cuda=12.4
+  - pytorch==2.5.1
+  - torchaudio==2.5.1
+  - torchvision==0.20.1
+  - matplotlib=3.9
+  - scipy
+  - pandas
+  - snakeviz
+  - mpld3
+

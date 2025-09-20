@@ -1,0 +1,3 @@
+pt_left 为势函数左端精确数据
+u_exact_real和u_exact_imag分别为PDE解析解实部和虚部精确数据
+u_real_n2和u_imag_n2分别为PDE解析解实部和虚部添加噪声后的数据，本项目中噪声水平为1%
